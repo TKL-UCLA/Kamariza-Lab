@@ -1,5 +1,5 @@
 # Kamariza-Lab
-# TKL-UCLA-Scripts #
+# TKL-UCLA-Scripts-Plate-Reader #
 
 for thorough walkthrough watch this youtube video
 - https://youtu.be/Aevvbb6DXcQ
